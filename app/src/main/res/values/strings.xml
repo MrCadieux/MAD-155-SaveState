@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SaveState2</string>
+    <string name="textBox">Save State Practice</string>
+    <string name="buttonText">Save State</string>
+    <string name="nameEntryHint">Please Enter Your Name</string>
+    <string name="radioButton1">Red</string>
+    <string name="radioButton2">Green</string>
+    <string name="radioButton3">Blue</string>
+    <string name="switchSwitch">Yes or No</string>
+    <string name="yesSwitch">Yes</string>
+    <string name="noSwitch">No</string>
+</resources>
